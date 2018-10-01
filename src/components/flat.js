@@ -13,7 +13,7 @@ render() {
 	+ "-" + this.props.flat.name;
 
 	const style ={
-		backgroundImage: `url('${this.props.flat.imageUrl}')`
+	backgroundImage: `url('${this.props.flat.imageUrl}')`
 	};
 return(
 	<div className="flat">
