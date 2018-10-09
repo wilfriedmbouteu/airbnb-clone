@@ -9,6 +9,17 @@
     "lng": 2.346890
   },
   {
+    "id": 1588,
+    "name": "Hotel Makepe Palace",
+    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat1.jpg",
+    "price": 105,
+    "priceCurrency": "FCFA",
+    "lat": 4.085,
+    "lng": 9.7557,
+    
+      },
+
+  {
     "id": 148,
     "name": "Trendy Apt in Buttes Montmartre",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat2.jpg",
